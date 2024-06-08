@@ -16,10 +16,10 @@ if(num2 != 0):
     dv = num1 / num2
     print(sb)
 else:
-    print("Error! Division by zero is not allowed.")
+    print("Error! Please enter number greater than 1.")
 
 if(num2 != 0):
     md = num1 % num2
     print(md)
 else:
-    print("Error! Modulo by zero is not allowed.")
+    print("Error! Please enter the number greater than 1.")
