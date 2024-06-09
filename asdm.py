@@ -1,7 +1,7 @@
 # Write a Python program to perform addition, subtraction, multiplication, division, and modulo of two numbers.
 
-num1 = int(input("Enter your first number :"))
-num2 = int(input("Enter your second number :"))
+num1 = int(input("Enter the first number :"))
+num2 = int(input("Enter the second number :"))
 
 sm = num1 + num2
 print(sm)
