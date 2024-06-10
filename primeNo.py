@@ -11,10 +11,10 @@ def checkPrime(n):
             return True
     
 
-numb = int(input("Enter your number to check for prime : "))
+numb = int(input("Enter your number : "))
 
 res = checkPrime(numb)
 if res:
-    print(f"{numb} is a prime number")
+    print(f"{numb} is a prime no.")
 else:
-    print(f"{numb} is not a prime number")
+    print(f"{numb} is not a prime no.")
